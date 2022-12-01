@@ -12,3 +12,7 @@ is a language for **creating formatted text** using a plain-text editor.
 | >quote | <blockquote> quote</blockquote> | |
 | \`single line code\` | <code> single line code</code> ||
 | \`\`\` languge name <br> multi <br> line <br> code <br> \`\`\` |||
+| \[google](www.google.com) | [google](www.google.com) ||
+| \!\[alt text](link to google icon) | ![alt text](https://www.google.com/logos/doodles/2022/2022-world-cup-dec-1-6753651837110002-s.png) ||
+| - [ ] check |<ul><li>[ ] check</li></ul>|forget the space between the ~ , [ , ] and check will cause error|
+| - [x] check |<ul><li>[x] check</li></ul>|forget the space between the ~ and check will cause error|
