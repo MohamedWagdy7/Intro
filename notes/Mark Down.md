@@ -1,5 +1,6 @@
 # Mark Down Language
 is a language for **creating formatted text** using a plain-text editor.
+## Syntax
 | Syntax | Result | Notes |
 | ------ | ------ | ----- |
 | # heading 1 | <h1>heading 1</h1> | forget the whitespace between # and heading will cause error|
