@@ -16,3 +16,5 @@ it's tracking all changes on set of files.
 | <code>git log </code> | to know all commites and thier messages |
 | <code> git checkout hashcode </code> | undo the commit with that hashcode |
 | <code> git branch </code> | tell u the current branch |
+| <code> git branch wego </code> | create new branch called wego |
+| <code> git checkout wego </code> | go to wego branch |
