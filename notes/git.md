@@ -1,4 +1,10 @@
 # Git
 is a free and open source version control system designed to handle everything from small to very large projects with speed and efficiency.
 it's tracking all changes on set of files.
-## Syntax
+## CMDs
+| CMD | Action |
+| --- | ------ |
+| <code>git config --gloabal user.name "user"</code> | set the user name |
+| <code>git config --gloabal user.email "user"</code> | set the user email |
+| <code>git</code> |  print all commands of git |
+| <code>git init --gloabal user.name "user"</code> | set the user name |
