@@ -9,7 +9,10 @@ it's tracking all changes on set of files.
 | <code>git</code> |  print all commands of git |
 | <code>git init --gloabal user.name "user"</code> | set the user name |
 | <code>git init "My Project"</code> | Create a new repository called My Project |
-| <code>git status</code> | tell u informations about ur repo and thier commites |
+| <code>git status</code> | tell u the status of ur files |
 | <code>touch index.html</code> | Create HTML file called index |
 | <code>git add "index.html"</code> | add ur file to stage area |
-| <code>git config --gloabal user.name "user"</code> | set the user name |
+| <code>git commit -m "commit index.html"</code> | add all files from stage area to the repo |
+| <code>git log </code> | to know all commites and thier messages |
+| <code> git checkout hashcode </code> | undo the commit with that hashcode |
+| <code> git branch </code> | tell u the current branch |
