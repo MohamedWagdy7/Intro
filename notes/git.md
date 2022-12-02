@@ -19,3 +19,5 @@ it's tracking all changes on set of files.
 | <code> git branch wego </code> | create new branch called wego |
 | <code> git checkout wego </code> | go to wego branch |
 | <code> git merge wego </code> | merge wego branch with master branch |
+| <code> git remote add origin URL </code> | connect online repo with local repo |
+| <code> git remote -v </code> | show the connections |
