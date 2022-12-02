@@ -18,3 +18,4 @@ it's tracking all changes on set of files.
 | <code> git branch </code> | tell u the current branch |
 | <code> git branch wego </code> | create new branch called wego |
 | <code> git checkout wego </code> | go to wego branch |
+| <code> git merge wego </code> | merge wego branch with master branch |
