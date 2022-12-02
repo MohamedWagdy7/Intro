@@ -21,4 +21,4 @@ it's tracking all changes on set of files.
 | <code> git merge wego </code> | merge wego branch with master branch |
 | <code> git remote add origin URL </code> | connect to online repo and named it as origin |
 | <code> git remote -v </code> | show the connections |
-| <code> git push repoName branchName </code> | go to the repoName which is in branchName |
+| <code> git push -u repoName branchName </code> | go to the repoName which is in branchName |
