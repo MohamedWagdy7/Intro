@@ -19,4 +19,4 @@ different algorithms designed to solve the same problem may differ dramaticaly i
 ## Notes
 1. Our measure of efficiency is speed.
 2. If the speed of computer is infinite and the storage is free, you will still need the algorithm to demonstrate that ur solution will terminate and with correct answer.
-3. 
+3. System performance is dependent on the algorithm as the hardware.
