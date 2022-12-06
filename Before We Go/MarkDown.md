@@ -17,3 +17,4 @@ is a language for **creating formatted text** using a plain-text editor.
 | - [ ] check |<ul><li>[ ] check</li></ul>|forget the space between the ~ , [ , ] and check will cause error|
 | - [x] check |<ul><li>[x] check</li></ul>|forget the space between the ~ and check will cause error|
 | Text <br> :text description | Text :Text description ||
+| \$$sum_{n=2}^{10} n * n$$ | $$sum_{n=2}^{10}n * n$$||
